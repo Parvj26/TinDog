@@ -100,7 +100,7 @@ p{
 }
 
 #press{
-  padding: 1% 15%;
+  padding: 1% 10%;
   text-align: center;
   background-color:  #ef8172;
   color: #ffffff;
@@ -110,4 +110,16 @@ p{
 .press-logo{
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-padding{
+  padding-bottom: 40px;
+}
+
+.pricing-card{
+  padding: 3% 2%;
 }
