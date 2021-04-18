@@ -18,6 +18,13 @@ h1{
   color: #fff;
 }
 
+h2{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 h3{
   font-family: "Montserrat";
   font-weight: bold;
@@ -56,10 +63,29 @@ p{
 }
 
 #features{
-  padding: 7% 5%;
+  padding: 7% 15%;
 }
 
-.feature-class{
+.feature-box{
   text-align: center;
   padding: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* Testimonials section */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:  #ef8172;
+  color: #ffffff;
 }
